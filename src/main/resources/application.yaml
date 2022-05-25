@@ -1,0 +1,8 @@
+tx:
+  face:
+    secretId: secretId
+    secretKey: secretKey
+ali:
+  face:
+    secretId: secretId
+    secretKey: secretKey
